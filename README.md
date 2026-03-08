@@ -13,5 +13,6 @@
 <p align="center">
   <strong><a href="https://github.com/licphel">Github</a></strong> |
   <strong><a href="https://x.com/licphel">Twitter / X</a></strong> |
+  <strong><a href="https://discord.com/users/licphel">Discord</a></strong> |
   <strong><a href="https://space.bilibili.com/99402687">Bilibili</a></strong>
 </p>

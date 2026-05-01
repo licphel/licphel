@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  A Nanjing University student majoring in Computer Science, currently working on NLP and Computer Graphics.
-</p>
-
-<p align="center">
   <strong><a href="https://github.com/licphel">Github</a></strong> |
   <strong><a href="https://x.com/licphel">Twitter / X</a></strong> |
   <strong><a href="https://discord.com/users/licphel">Discord</a></strong> |

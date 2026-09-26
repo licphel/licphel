@@ -17,7 +17,5 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://ntopia.top">Ntopia</a></strong> |
-  <strong><a href="https://discord.com/users/licphel">Discord</a></strong> |
-  <strong><a href="https://space.bilibili.com/99402687">Bilibili</a></strong>
+  Welcome to visit my <strong><a href="https://licphel.github.io/">Homepage</a></strong> for further info!
 </p>

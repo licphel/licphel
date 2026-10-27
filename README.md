@@ -13,9 +13,5 @@
 </p>
 
 <p align="center">
-  <strong>Research Interests:</strong> Agent Systems · Agent Harness · Multi-Agent Orchestration & Controllability
-</p>
-
-<p align="center">
   Welcome to visit my <strong><a href="https://licphel.github.io/">Homepage</a></strong> for further info!
 </p>
